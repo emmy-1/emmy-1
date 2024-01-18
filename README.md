@@ -5,7 +5,7 @@
 - 📫 How to reach me eobayomi2@gmail.com
 
 Tech Stack
-Microsoft Power BI, SQL, Python , bigquery.
+Microsoft Power BI, SQL, Python , Azure Synpase Analytics.
 Website:https://emmy-1.github.io/
 <!---
 emmy-1/emmy-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
