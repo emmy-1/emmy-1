@@ -7,7 +7,7 @@ Data Analyst
 I am passionate about using my skills in data engineering and analytics to tackle data infrastructure challenges in developing nations. I have experience with tools such as Tableau, SQL, python, DataBricks, and Microsoft Azure. I am dedicated to leveraging the potential of Data and AI for a positive social impact in emerging economies.
 
 * 🌍  I'm based in London, England
-* 🖥️  See my portfolio at [https://emmanuelobayomi.webflow.io/](http://public.tableau.com/app/profile/emmanuel.adegboyega.obayomi/vizzes)
+* 🖥️  See my portfolio at [https://emmanuelobayomi.webflow.io/](https://www.datascienceportfol.io/emmanuelobayomi)
 * ✉️  You can contact me at [eobayomi2@gmail.com](mailto:eobayomi2@gmail.com)
 * 🚀  I'm currently working on [NewEgg Webscrapper](http://github.com/emmy-1/Newegg-pcpart-data)
 * 🧠  I'm learning Data Engineering on Databricks
