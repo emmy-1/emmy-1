@@ -9,7 +9,7 @@ I am passionate about using my skills in data engineering and analytics to tackl
 * 🌍  I'm based in London, England
 * 🖥️  See my portfolio at [https://emmanuelobayomi.webflow.io/](https://www.datascienceportfol.io/emmanuelobayomi)
 * ✉️  You can contact me at [eobayomi2@gmail.com](mailto:eobayomi2@gmail.com)
-* 🚀  I'm currently working on [NewEgg Webscrapper](http://github.com/emmy-1/Newegg-pcpart-data)
+* 🚀  I'm currently working on [Electricity-Demand-Forecasting-with-Deep-Learning](https://github.com/emmy-1/Electricity-Demand-Forecasting-with-Deep-Learning)
 * 🧠  I'm learning Data Engineering on Databricks
 * 🤝  I'm open to collaborating on WebScraping, Tableau, ETL pipline building
 * ⚡  My hobbies include playing football, flying drones (I am a CAA certified drone pilot), and playing Apex. Unfortunately, the first two are the only ways for me to touch some grass.
